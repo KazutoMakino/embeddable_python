@@ -1,1 +1,2 @@
 https://qiita.com/rhene/items/68941aced93ccc9c3071
+https://dev.to/fpim/setting-up-python-s-windows-embeddable-distribution-properly-1081
